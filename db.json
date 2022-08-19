@@ -10,6 +10,6 @@
   ],
   "users": [
     { "id": 1, "firstName": "Khaled", "lastName": "Ebdelli", "email": "khaled.ebdelli.it@gmail.com", "password": "123456" },
-    { "id": 2, "firstName": "Amine", "lastName": "Belghith", "email": "amin.belghith@gmail.com", "password": "123456" },
+    { "id": 2, "firstName": "Amine", "lastName": "Belghith", "email": "amin.belghith@gmail.com", "password": "654321" },
   ]
 }
